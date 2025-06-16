@@ -5,7 +5,7 @@
   "description": "A page navigation component similar to a form builder, supporting drag-to-reorder, adding pages, context menus, and active page highlighting. Built with React, TypeScript, and Tailwind CSS, with Gemini API integration capabilities.",
   "scripts": {
     "start": "echo \"Run your development server, e.g., serve . or use a live server extension.\"",
-    "build": "echo \"Implement your build process here, e.g., tsc && vite build or similar.\"",
+    "build": "vite build",
     "lint": "echo \"Implement your linting process here.\""
   },
   "dependencies": {
