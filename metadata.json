@@ -1,0 +1,5 @@
+{
+  "name": "React Page Navigation",
+  "description": "A page navigation component similar to a form builder, supporting drag-to-reorder, adding pages, context menus, and active page highlighting. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
