@@ -1,4 +1,4 @@
-<script>
+
 document.addEventListener("DOMContentLoaded", function () {
   const currentUserEmail = document.querySelector(".o--attribute--Person--Email")?.textContent?.trim() || "unknown@user.dk";
 const getBookingsUrl = "https://hook.eu2.make.com/9r33arthxrl9fwifnjpvqojj25jn7x6u";
@@ -400,4 +400,3 @@ const endHourText = `${endHour % 24}:00`;
 setTimeout(() => {
   window.renderMyBookings();
 }, 5000);
-</script>
